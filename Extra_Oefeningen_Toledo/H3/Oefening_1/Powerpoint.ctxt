@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Powerpoint
+comment0.text=\n\ Klasse\ om\ powerpointdata\ bij\ te\ houden.\n\n\ @author\ MyName\n\ @version\ MyVersion\n
+comment1.params=naam
+comment1.target=Powerpoint(java.lang.String)
+comment2.params=
+comment2.target=void\ getName()
+comment3.params=
+comment3.target=void\ getSize()
+comment4.params=
+comment4.target=void\ getSlides()
+comment5.params=size
+comment5.target=void\ addSlide(int)
+numComments=6
