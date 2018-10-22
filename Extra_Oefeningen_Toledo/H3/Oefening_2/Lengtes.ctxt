@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Lengtes
+comment1.params=meters\ centimeters\ millimeters
+comment1.target=Lengtes(int,\ int,\ int)
+comment1.text=\n\ Constructor\ voor\ gegevens\ m,\ cm\ en\ mm\n
+comment2.params=millimeters
+comment2.target=Lengtes(int)
+comment3.params=
+comment3.target=Lengtes()
+comment4.params=
+comment4.target=void\ printLength()
+comment5.params=
+comment5.target=int\ convertToMm()
+comment6.params=lengte2
+comment6.target=Lengtes\ addLengte(Lengtes)
+comment7.params=lengte2
+comment7.target=Lengtes\ subtractLengte(Lengtes)
+comment8.params=factor
+comment8.target=Lengtes\ multiply(int)
+comment9.params=l
+comment9.target=void\ compareLengte(Lengtes)
+numComments=10
