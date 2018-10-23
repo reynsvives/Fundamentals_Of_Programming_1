@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cirkel
+comment1.params=straal
+comment1.target=Cirkel(double)
+comment2.params=
+comment2.target=void\ getStraal()
+comment3.params=newStraal
+comment3.target=void\ setStraal(double)
+comment4.params=
+comment4.target=void\ getPerimeter()
+comment5.params=
+comment5.target=void\ getArea()
+numComments=6

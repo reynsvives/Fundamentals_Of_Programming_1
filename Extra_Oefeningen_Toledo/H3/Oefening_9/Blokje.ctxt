@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Blokje
+comment0.text=\n\ Oefening\ 9.\n
+comment1.params=lengte\ breedte\ hoogte
+comment1.target=Blokje(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getTotalArea()
+comment3.params=
+comment3.target=double\ getContent()
+comment4.params=
+comment4.target=double\ getArea1()
+comment5.params=b
+comment5.target=boolean\ past(Blokje)
+numComments=6
