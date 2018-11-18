@@ -1,3 +1,7 @@
 #Ignore folders with exercises that have to be handed in
 
 **/In_Te_Dienen
+
+//Ignore mp3-files
+
+*.mp3
