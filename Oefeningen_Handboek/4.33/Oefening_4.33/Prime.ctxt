@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Prime
+comment0.text=\n\ Write\ a\ description\ of\ class\ Prime\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Prime()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Prime\n
+comment2.params=n
+comment2.target=void\ isPrime(int)
+comment2.text=\n\ isPrime()\n
+numComments=3
