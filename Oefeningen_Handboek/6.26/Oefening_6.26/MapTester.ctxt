@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MapTester
+comment1.params=
+comment1.target=MapTester()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MapTester\n
+comment2.params=name\ number
+comment2.target=void\ enterNumber(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Method\ enterNumber\n
+comment3.params=name
+comment3.target=java.lang.String\ lookupNumber(java.lang.String)
+comment3.text=\n\ Method\ enterNumber\n
+comment4.params=
+comment4.target=void\ printKeySet()
+comment4.text=Print\ keyset
+numComments=5
