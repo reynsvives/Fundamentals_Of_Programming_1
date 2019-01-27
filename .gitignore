@@ -2,6 +2,7 @@
 
 **/In_Te_Dienen
 
-//Ignore mp3-files
+//Ignore mp3-files and pdf files
 
 *.mp3
+*.pdf
