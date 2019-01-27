@@ -55,7 +55,7 @@ public class jaarcijfers
     {
         //Check geldige waarden (rowIndex mag lopen t.e.m. 11 en colIndex tot lengte van de rij - 1)
         
-        if(rowIndex < 12 && colIndex < jaarcijfers[rowIndex].length - 1)
+        if((rowIndex >= 0 && rowIndex < 12) && (colIndex >= 0 && colIndex < jaarcijfers[rowIndex].length - 1))
         {
             jaarcijfers[rowIndex][colIndex] = number;
         }
@@ -71,7 +71,7 @@ public class jaarcijfers
     {
                 //Check geldige waarden (rowIndex mag lopen t.e.m. 11 en colIndex tot lengte van de rij - 1)
         
-        if(rowIndex < 12 && colIndex < jaarcijfers[rowIndex].length - 1)
+        if((rowIndex >= 0 && rowIndex < 12) && (colIndex >= 0 && colIndex < jaarcijfers[rowIndex].length - 1))
         {
             System.out.println("Jaarcijfer is: " + jaarcijfers[rowIndex][colIndex]);
         }
@@ -86,7 +86,7 @@ public class jaarcijfers
     
     public int showMonthTotal(int rowIndex)
     {
-        if(rowIndex < 12)
+        if(rowIndex >= 0 && rowIndex < 12)
         {
             //Berekenen van maandtotaal
             
@@ -135,7 +135,7 @@ public class jaarcijfers
     
     public double avgMonth(int rowIndex)
     {
-        if(rowIndex < 12)
+        if(rowIndex >= 0 && rowIndex < 12)
         {
             return (double) showMonthTotal(rowIndex) / jaarcijfers[rowIndex].length;
         }
@@ -169,4 +169,29 @@ public class jaarcijfers
         avgJaar = jaarTotaal / aantalDagenJaar;
         return avgJaar;
     }
+    
+    /**
+     * methode toString() dat het jaartal en alle jaarcijfers teruggeeft
+     */
+    
+    public String toString()
+    {
+        StringBuffer strCijfers = new StringBuffer();
+        
+        strCijfers.append(jaartal);
+        
+        for(int i=0; i<12; i++)
+        {
+            for(int j=0; j<jaarcijfers[i].length; j++)
+            {
+                strCijfers.append(" jaarcijfer: " + jaarcijfers[i][j] + " ");
+            }
+            
+            strCijfers.append("\n");
+        }
+        
+        return strCijfers.toString();
+    }
+    
+    
 }

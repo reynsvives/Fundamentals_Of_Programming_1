@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=pascal
+comment0.text=\n\ Write\ a\ description\ of\ class\ pascal\ here.\n\n\ @author\ (MyName)\n\ @version\ (MyVersion)\n
+comment1.params=
+comment1.target=pascal()
+comment1.text=\n\ Constructor\ maken\n
+comment2.params=
+comment2.target=void\ showPascal()
+comment2.text=\n\ methode\ showPascal()\ is\ een\ methode\ om\ de\ driehoek\ van\ Pascal\ te\ tonen\n
+numComments=3
