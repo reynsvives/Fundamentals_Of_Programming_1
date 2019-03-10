@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=nisStatistiek
+comment1.params=
+comment1.target=nisStatistiek()
+comment1.text=\n\ Constructor\n
+comment2.params=jaartal
+comment2.target=void\ addGeboortcijfer(int)
+comment2.text=\n\ Methode\ voor\ toevoegen\ geboortecijfers\n
+numComments=3

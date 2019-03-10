@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Database
+comment1.params=
+comment1.target=Database()
+comment1.text=\n\ Constructor\n
+comment2.params=klantNummer\ naam\ adres
+comment2.target=void\ voegKlantToe(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\n\ Methode\ om\ klant\ toe\ te\ voegen\n\ @param\ klantNummer\ Het\ unieke\ klantennummer\n\ @param\ naam\ De\ naam\ van\ de\ klant\n\ @param\ adres\ Het\ adres\ van\ de\ klant\n\ \n
+comment3.params=orderNummer\ omschrijving\ klantNummer
+comment3.target=void\ voegOrderToe(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.text=\n\ Order\ toevoegen\ aan\ de\ tabel\ met\ orders.\n
+comment4.params=key
+comment4.target=java.lang.String\ getKlant(java.lang.String)
+comment4.text=\n\ getKlant\n
+comment5.params=
+comment5.target=void\ printLijstOrders()
+comment5.text=\n\ printLijstOrders\n
+comment6.params=orderNummer
+comment6.target=void\ schrapOrder(java.lang.String)
+comment6.text=\n\ schrapOrder\ \n
+comment7.params=klantNummer
+comment7.target=boolean\ checkKlant(java.lang.String)
+comment7.text=\n\ checkKlant\ zoekt\ of\ een\ klant\ order\ heeft\ in\ de\ order\ tabel\n
+comment8.params=klantNummer
+comment8.target=void\ schrapKlant(java.lang.String)
+comment8.text=\n\ SchrapKlant\n
+numComments=9

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=geboorteCijfer
+comment0.text=\n\ Write\ a\ description\ of\ class\ geboorteCijfer\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=jaartal
+comment1.target=geboorteCijfer(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ geboorteCijfer\n
+comment2.params=
+comment2.target=int\ getYear()
+comment2.text=\n\ Jaartal\ geboortecijfers\ ophalen\n
+comment3.params=monthIndex\ dayIndex\ value
+comment3.target=void\ insertNumberGirl(int,\ int,\ int)
+comment3.text=\n\ insertNumberGirl()\ om\ geboortecijfers\ meisjes\ in\ te\ geven\n
+comment4.params=monthIndex\ dayIndex\ value
+comment4.target=void\ insertNumberBoy(int,\ int,\ int)
+comment4.text=\n\ insertNumberBoy()\ om\ geboortecijfers\ jongens\ in\ te\ geven\n
+comment5.params=monthIndex
+comment5.target=double\ fractionBoyGirlMonth(int)
+comment5.text=\n\ Verhouding\ geboortecijfers\ per\ maand\ bepalen\n
+comment6.params=
+comment6.target=double\ fractionBoyGirlYear()
+comment6.text=\n\ Verhouding\ geboortecijfers\ per\ jaar\ bepalen\n
+numComments=7

@@ -1,29 +1,25 @@
-Project documentation
+Class documentation
 <---- javadoc command: ---->
 /Applications/BlueJ 4.1.3/BlueJ.app/Contents/JDK/Home/bin/javadoc
--sourcepath
-/Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
 -source
 1.8
 -classpath
-/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26
+/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Applications/BlueJ 4.1.3/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26
 -d
 /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc
 -encoding
 UTF-8
 -charset
 UTF-8
--doctitle
-Oefening_6.26
--windowtitle
-Oefening_6.26
--author
--version
--nodeprecated
--package
--Xdoclint:none
--link
-file:///Applications/BlueJ%204.1.3/docs/api/
 /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/MapTester.java
 <---- end of javadoc command ---->
 Loading source file /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/MapTester.java...
@@ -33,13 +29,9 @@ Building tree for all the packages and classes...
 Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/MapTester.html...
 Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/package-frame.html...
 Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/package-summary.html...
-Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/package-tree.html...
 Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/constant-values.html...
 Building index for all the packages and classes...
-Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/overview-tree.html...
-Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/index-all.html...
 Building index for all classes...
 Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/allclasses-frame.html...
 Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/allclasses-noframe.html...
 Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/index.html...
-Generating /Users/Nikolaas/Documents/Software_Developer_Vives/1_Fase_1/Fundamentals_Of_Programming/Oefeningen/Oefeningen_Handboek/6.26/Oefening_6.26/doc/help-doc.html...

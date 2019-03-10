@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Stringklasse
+comment0.text=\n\ Write\ a\ description\ of\ class\ Stringklasse\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=s
+comment1.target=Stringklasse(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Stringklasse\n
+comment2.params=
+comment2.target=boolean\ isPalindroom()
+comment2.text=\n\ isPalindroom()\n
+comment3.params=
+comment3.target=boolean\ isBinair()
+comment3.text=\n\ isBinair()\n
+comment4.params=
+comment4.target=int\ binToDec()
+comment4.text=\n\ binToDec()\ converteert\ binaire\ string\ naar\ een\ decimaal\ getal\n
+numComments=5

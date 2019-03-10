@@ -28,7 +28,7 @@ public class MapTester
         myHashMap.put(name, number);
     }
     
-        /**
+    /**
      * Method enterNumber
      */
     public String lookupNumber(String name)
@@ -36,12 +36,22 @@ public class MapTester
         return myHashMap.get(name);
     }
     
-    /*Print keyset*/
+    /**
+     * Print keyset
+    */
 
     public void printKeySet()
     {
         System.out.println(myHashMap.keySet());
     }
+    
+    /**
+     * checkKey checks if key is already present in the hashMap
+     */
 
+    public boolean checkKey(String Key)
+    {
+        return myHashMap.containsKey(Key);
+    }
 }
 
