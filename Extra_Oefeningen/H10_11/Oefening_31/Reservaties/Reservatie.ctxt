@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Reservatie
+comment0.text=\n\ Reservatie\ invoeren\ en\ prijs\ berekenen\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=p_Lid\ p_Boot\ p_aantalUren
+comment1.target=Reservatie(Lid,\ Boot,\ double)
+comment2.params=
+comment2.target=double\ kostReservatie()
+comment2.text=\n\ Methode\ om\ prijzen\ te\ berekenen\ in\ functie\ van\ het\ soort\ lid\ en\ \n\ het\ soort\ boot.\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GoudenLid
+comment0.text=\n\ Subklasse\ gouden\ lid.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=p_naam\ p_telefoonNummer\ p_aantalAandelen
+comment1.target=GoudenLid(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=double\ getKorting()
+comment2.text=\n\ Korting\ voor\ huur\ boten\n
+numComments=3

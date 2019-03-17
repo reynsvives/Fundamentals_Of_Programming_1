@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Boot
+comment0.text=\n\ Superklasse\ Boot\ die\ algemeen\ een\ boot\ beschrijft\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=p_naam\ p_heeftRadar
+comment1.target=Boot(java.lang.String,\ boolean)
+comment1.text=\n\ Constructor\ voor\ Boot\n
+comment2.params=
+comment2.target=double\ huurprijs()
+comment2.text=\n\ Methode\ voor\ huurprijs\n
+comment3.params=
+comment3.target=boolean\ getRadar()
+comment3.text=\n\ getRadar\ geeft\ aan\ of\ er\ een\ radar\ aan\ boord\ is\n
+comment4.params=
+comment4.target=double\ getToeslagRader()
+comment4.text=\n\ Methode\ om\ toeslagRadar\ weer\ te\ geven\n
+numComments=5

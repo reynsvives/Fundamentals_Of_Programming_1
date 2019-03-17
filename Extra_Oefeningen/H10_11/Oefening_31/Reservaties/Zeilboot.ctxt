@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Zeilboot
+comment0.text=\n\ Klasse\ zeilboot\ die\ een\ subklasse\ is\ van\ Boot.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=p_naam\ p_heeftRadar\ heeftGPS
+comment1.target=Zeilboot(java.lang.String,\ boolean,\ boolean)
+comment2.params=
+comment2.target=double\ huurprijs()
+comment2.text=\n\ Huurprijs\ bepalen\ in\ functie\ van\ GPS\ en\ radar\ \n
+numComments=3

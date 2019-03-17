@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TabelTools
+comment1.params=myTable
+comment1.target=TabelTools(int[])
+comment2.params=
+comment2.target=void\ komtHetVaakstVoorHash()
+comment3.params=
+comment3.target=void\ komtHetVaakstVoorTab()
+numComments=4
