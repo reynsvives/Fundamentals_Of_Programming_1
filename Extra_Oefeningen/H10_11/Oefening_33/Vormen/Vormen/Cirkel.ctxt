@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cirkel
+comment1.params=
+comment1.target=Cirkel()
+comment2.params=p_straal\ middelpunt
+comment2.target=Cirkel(double,\ Punt)
+comment3.params=
+comment3.target=double\ getOmtrek()
+comment3.text=\n\ Omtrek\ berekenen\n
+comment4.params=
+comment4.target=Punt\ getMiddelPunt()
+comment4.text=\n\ Middelpunt\ ophalen\n
+numComments=5

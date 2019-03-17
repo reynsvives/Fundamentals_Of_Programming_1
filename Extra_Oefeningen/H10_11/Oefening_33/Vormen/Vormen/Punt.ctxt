@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Punt
+comment1.params=p_x_coord\ p_y_coord
+comment1.target=Punt(double,\ double)
+comment2.params=
+comment2.target=double\ getXCoord()
+comment2.text=\n\ X-co\u00F6rdinaat\ ophalen\n
+comment3.params=
+comment3.target=double\ getYCoord()
+comment3.text=\n\ Y-co\u00F6rdinaat\ ophalen\n
+comment4.params=p_x_coord
+comment4.target=void\ setXCoord(double)
+comment4.text=\n\ Aanpassen\ x-co\u00F6rdinaat\n
+comment5.params=p_y_coord
+comment5.target=void\ setYCoord(double)
+comment5.text=\n\ Aanpassen\ y-co\u00F6rdinaat\n
+comment6.params=p_delta_x_coord\ p_delta_y_coord
+comment6.target=void\ move(double,\ double)
+comment6.text=\n\ Verplaatsten\ van\ het\ punt\n\ @param\ p_delta_x_coord\ geeft\ het\ aantal\ eenheden\ om\ punt\ te\ verplaatsen\n\ over\ de\ x-as\n\ @param\ p_detla_y_coord\ geeft\ het\ aantal\ eenheden\ om\ het\ punt\ te\n\ verplaatsen\ over\ de\ y-as\n
+comment7.params=p_punt
+comment7.target=double\ distance(Punt)
+comment7.text=\n\ Afstand\ tussen\ 2\ punten\ berekenen\ via\ euclidische\ afstandsformule\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ Punt\ als\ co\u00F6rdinatenkoppel\ voorstellen\n
+numComments=9

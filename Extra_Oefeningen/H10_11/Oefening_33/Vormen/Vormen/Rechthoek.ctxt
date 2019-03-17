@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rechthoek
+comment0.text=\n\ Write\ a\ description\ of\ class\ Rechthoek\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Rechthoek()
+comment1.text=\n\ Constructor\ met\ default\ waarden\n
+comment2.params=p_punt1\ p_punt2
+comment2.target=Rechthoek(Punt,\ Punt)
+comment2.text=\n\ Constructor\ met\ zelf\ gekozen\ parameters\n
+comment3.params=
+comment3.target=double\ getOmtrek()
+comment3.text=\n\ Omtrek\ berekenen\n
+numComments=4

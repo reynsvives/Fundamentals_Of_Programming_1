@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=
+comment1.target=Shape()
+comment2.params=p_punten
+comment2.target=Shape(java.util.ArrayList)
+comment3.params=p_punt
+comment3.target=void\ addPoint(Punt)
+comment3.text=\n\ Punten\ toevoegen\ aan\ de\ lijst\n
+comment4.params=p_index
+comment4.target=Punt\ getPoint(int)
+comment4.text=\n\ getPoint\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getPoints()
+comment5.text=\n\ getpunten\n
+comment6.params=p_delta_x_coord\ p_delta_y_coord
+comment6.target=void\ moveShape(double,\ double)
+comment6.text=\n\ Shape\ verplaatsen\ door\ punt\ voor\ punt\ de\ move()\ methode\ aan\ te\ \n\ roepen\ en\ een\ delta\ mee\ te\ geven\ waarover\ moet\ verschoven\ worden.\n
+numComments=7

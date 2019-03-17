@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=gebrokenLijn
+comment1.params=
+comment1.target=gebrokenLijn()
+comment2.params=p_punten
+comment2.target=gebrokenLijn(java.util.ArrayList)
+comment3.params=
+comment3.target=double\ omtrek()
+comment3.text=\n\ Omtrek\ bepalen\n
+numComments=4
