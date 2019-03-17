@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Rekening
+comment0.text=\n\ Write\ a\ description\ of\ class\ Rekening\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=p_rekeningNummer\ p_naamKlant
+comment1.target=Rekening(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getSaldo()
+comment2.text=\n\ Methode\ om\ saldo\ op\ te\ halen\n
+comment3.params=p_bedrag
+comment3.target=void\ stortGeld(double)
+comment3.text=\n\ Stort\ geld\ bij\ op\ de\ rekening\n
+comment4.params=p_bedrag
+comment4.target=void\ neemGeld(double)
+comment4.text=\n\ Haal\ geld\ af\ van\ de\ rekening\n
+numComments=5

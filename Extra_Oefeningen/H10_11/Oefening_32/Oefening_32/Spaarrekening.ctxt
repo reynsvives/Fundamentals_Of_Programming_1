@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Spaarrekening
+comment0.text=\n\ Spaarrekeningen\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=p_rekeningNummer\ p_naamKlant
+comment1.target=Spaarrekening(java.lang.String,\ java.lang.String)
+comment2.params=p_bedrag
+comment2.target=void\ neemGeld(double)
+comment2.text=\n\ neemGeld()\ overschrijven\ want\ er\ mag\ niet\ onder\ 0\ gegaan\ worden\ op\ de\n\ spaarrekening\n\ @param\ p_bedrag\ is\ het\ op\ te\ nemen\ bedrag\n
+comment3.params=
+comment3.target=void\ berekenRente()
+comment3.text=\n\ Rente\ berekenen\ van\ de\ voorbije\ maand\n
+numComments=4
