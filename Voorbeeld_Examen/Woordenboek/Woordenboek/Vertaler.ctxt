@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Vertaler
+comment1.params=p_woordenboek
+comment1.target=Vertaler(Woordenboek)
+comment1.text=\n\ Constructor\n\ @param\ p_woordenboek\ die\ de\ woordenboek\ aanneemt\n
+comment2.params=
+comment2.target=Woordenboek\ geefWoordenboek()
+comment2.text=\n\ Geef\ woordenboek\n
+comment3.params=w
+comment3.target=java.util.ArrayList\ vertaalReeks(java.util.ArrayList)
+comment3.text=\n\ Vertaal\ woordenreeks\n
+numComments=4
