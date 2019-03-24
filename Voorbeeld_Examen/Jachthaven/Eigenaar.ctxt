@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Eigenaar
+comment0.text=\n\ Klasse\ eigenaar\n\n\ @author\ myName\n\ @version\ myVersion\n
+comment1.params=p_naam\ p_adres\ p_postnummer\ p_gemeente\ p_rekeningnummer
+comment1.target=Eigenaar(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ @param\ p_naam\ naam\ van\ de\ eigenaar\n\ @param\ p_adres\ adres\ van\ de\ eigenaar\n\ @param\ p_postnummer\ postnummer\ van\ de\ woonplaats\ van\ de\ eigenaar\n\ @param\ p_gemeente\ gemeente\ van\ de\ woonplaats\ van\ de\ eigenaar\n\ @param\ p_rekeningnummer\ rekeningnummer\ van\ de\ eigenaar\n
+comment2.params=p_postnummer
+comment2.target=void\ veranderPostnummer(int)
+comment2.text=\n\ Mutator\ voor\ het\ postnummer\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ toString()\n
+numComments=4

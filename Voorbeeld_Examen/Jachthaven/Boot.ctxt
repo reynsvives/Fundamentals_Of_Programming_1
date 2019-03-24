@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Boot
+comment0.text=\n\ Deze\ klasse\ modelleert\ een\ boot\n\n\ @author\ myName\n\ @version\ myVersion\n
+comment1.params=p_breedte\ p_diepgang\ p_lengte\ p_naam\ p_type\ p_eigenaar
+comment1.target=Boot(double,\ double,\ double,\ java.lang.String,\ int,\ Eigenaar)
+comment1.text=\n\ Constructor\n\ @param\ p_breedte\ is\ de\ breedte\ van\ de\ boot\n\ @param\ p_diepgang\ is\ de\ diepgang\ van\ de\ boot\n\ @param\ p_lengte\ is\ de\ lengte\ van\ de\ boot\n\ @param\ p_naam\ is\ de\ naam\ van\ de\ boot\n\ @param\ p_eigenaar\ is\ de\ eigenaar\ van\ de\ boot\n
+comment2.params=p_eigenaar
+comment2.target=void\ veranderEigenaar(Eigenaar)
+comment2.text=\n\ Mutator\ om\ de\ eigenaar\ van\ de\ boot\ te\ wijzigen\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ toString()\ methode\ om\ het\ object\ te\ tonen\ op\ het\ scherm\n
+numComments=4

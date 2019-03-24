@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ponton
+comment1.params=p_maxDiepte\ p_maxLengte\ p_identificator
+comment1.target=Ponton(double,\ double,\ java.lang.String)
+comment1.text=\n\ Constructor\ voor\ het\ ponton\n\ @param\ p_maxDiepte\ is\ de\ maximale\ diepte\ van\ een\ boot\ aan\ het\ ponton\n\ @param\ p_maxLengte\ is\ de\ maximale\ lengte\ van\ een\ boot\ aan\ het\ ponton\n\ @param\ p_identificator\ is\ de\ ID\ van\ het\ ponton\n
+comment2.params=p_breedte
+comment2.target=void\ toevoegenLigplaats(double)
+comment2.text=\n\ Maakt\ een\ nieuwe\ ligplaats\ voor\ deze\ ponton\ met\ een\ bepaalde\ breedte\n\ Het\ identificatie\ nummer\ wordt\ automatisch\ gegenereerd\ en\ is\ een\ samenstelling\n\ van\ de\ pontonletter\ en\ het\ nummer\ dat\ afhankelijk\ is\ van\ het\ reeds\ aantal\ \n\ bestaande\ ligplaatsen\n\ @param\ breedte\ de\ breedte\ van\ de\ nieuwe\ gecree\u0308erde\ ligplaats\n
+numComments=3
